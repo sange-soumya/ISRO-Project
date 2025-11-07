@@ -25,11 +25,6 @@ The tool provides a **web-based GUI (built with Flask)** where engineers can upl
 
 ---
 
-## 🧾 Documentation
-Full project report available here:  
-📄 [ISRO_Project_Report.pdf](./docs/ISRO_Project_Report.pdf)
-
----
 
 ## 👨‍💻 Author
 **Soumya**  
